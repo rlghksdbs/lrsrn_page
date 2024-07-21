@@ -1,3 +1,6 @@
-## IAM-VFI : Interpolate Any Motion for Video Frame Interpolation with motion complexity map [ECCV 2024]
+## Lightweight Real-Time Image Super-Resolution Network for 4K Images [CVPRW 2023]
 
-### [IAM-VFI code](https://github.com/rlghksdbs/IAM-VFI)
+### [LRSRN code](https://github.com/rlghksdbs/CASR)
+
+### [LRSRN Page](https://rlghksdbs.github.io/casr_page)
+
